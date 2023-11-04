@@ -1,0 +1,23 @@
+Claro! Vou explicar de forma simples os três tipos de serviços em nuvem (cloud):
+ IaaS, PaaS e SaaS.
+
+IaaS (Infrastructure as a Service): é um serviço em que o provedor de nuvem 
+oferece a infraestrutura necessária para que o cliente possa criar e gerenciar 
+seus próprios recursos em nuvem, como servidores virtuais, armazenamento e redes.
+ O cliente é responsável por configurar e gerenciar esses recursos, enquanto o 
+ provedor de nuvem é responsável por manter a infraestrutura física.
+
+PaaS (Platform as a Service): é um serviço em que o provedor de nuvem oferece 
+uma plataforma completa para que o cliente possa desenvolver, executar e 
+gerenciar seus aplicativos em nuvem. O cliente não precisa se preocupar com a 
+infraestrutura subjacente, pois o provedor de nuvem é responsável por fornecer e
+ gerenciar a plataforma.
+
+SaaS (Software as a Service): é um serviço em que o provedor de nuvem oferece 
+um aplicativo completo para que o cliente possa usá-lo diretamente, sem precisar
+ se preocupar com a infraestrutura ou a plataforma subjacente. O cliente só 
+ precisa acessar o aplicativo pela internet e usá-lo como serviço.
+
+No AWS, a Amazon Web Services, você pode encontrar todos esses tipos de 
+serviços em nuvem.Claro! Vou explicar de forma simples os três tipos de 
+serviços em nuvem (cloud): IaaS, PaaS e SaaS.
