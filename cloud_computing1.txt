@@ -5,3 +5,23 @@ Em vez de manter esses recursos em um servidor local, eles são hospedados em
 servidores remotos e acessados pela internet. Isso permite que as empresas 
 reduzam custos, aumentem a escalabilidade e a flexibilidade de seus sistemas 
 de TI.
+
+ANTES
+
+Antes do surgimento do Cloud Computing, as empresas costumavam manter seus 
+recursos de TI em servidores locais, o que exigia altos investimentos em 
+infraestrutura e manutenção. Além disso, a escalabilidade e a flexibilidade 
+desses sistemas eram limitadas, o que dificultava a adaptação às mudanças do 
+mercado.
+
+DEPOIS
+
+Com o Cloud Computing, as empresas podem ter acesso a recursos de TI de forma 
+mais flexível e escalável, sem precisar investir em infraestrutura própria. 
+Isso permite que elas se adaptem mais rapidamente às mudanças do mercado e 
+reduzam seus custos operacionais. Além disso, o Cloud Computing também oferece 
+maior segurança e confiabilidade para os dados e sistemas das empresas, já que 
+os provedores de serviços em nuvem geralmente possuem medidas de segurança mais 
+avançadas do que a maioria das empresas poderia implementar por conta própria.
+
+ 
