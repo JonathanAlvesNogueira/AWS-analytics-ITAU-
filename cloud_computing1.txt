@@ -1,0 +1,7 @@
+
+Cloud computing é um modelo de computação em que recursos de computação, 
+como servidores, armazenamento e aplicativos, são fornecidos pela internet. 
+Em vez de manter esses recursos em um servidor local, eles são hospedados em 
+servidores remotos e acessados pela internet. Isso permite que as empresas 
+reduzam custos, aumentem a escalabilidade e a flexibilidade de seus sistemas 
+de TI.
